@@ -1,7 +1,8 @@
 # Taxi-Management-System
-An in-depth exploration and analysis of queries and execution plans in a Taxi Management Database System.
+An in-depth exploration and analysis of queries and execution plans in Relation Database Management Systems (RDMSs) with SQL.
 
 ## a) Database Preparation:
+- Database chosen - MySQL
 - Designed relational schema
 - Created tables
 - Database population: Loaded records into the tables using python scripts
